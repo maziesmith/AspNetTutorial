@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace SolidPrinciples
 {
+    /// <summary>
+    /// Senior Developer uses two function but Junior developer uses one function
+    /// We can designed to new implementation
+    /// </summary>
     public class LiskovSubstitutionPrinciple
     {
         public LiskovSubstitutionPrinciple()
