@@ -41,7 +41,7 @@ namespace SolidPrinciples
     public class MailHelper
     {
         #region Constructor
-        public Mail()
+        public MailHelper()
         {
 
         }
